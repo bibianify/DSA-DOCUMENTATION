@@ -12,7 +12,8 @@ TOOLS USED
 ***SQL
 
 ***POWERBI
-MY PROJECT
+## MY PROJECT
+My projectis on palmora Group company based in nigeria,i anayze the gender distribution,wether the organizationis compliant with regulation minimum to pay employee and visualize it by region
 
 
 The power bi see the link https://eu.docworkspace.com/d/sIHLN-ZbOAYmCnsMG?sa=601.1037
