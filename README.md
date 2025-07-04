@@ -7,4 +7,8 @@ I have learnt alot about excel ,SQL and power BI
 TOOLS USED
 
 
- ^EXCEL
+ ##EXCEL
+ 
+##SQL
+
+##POWERBI
