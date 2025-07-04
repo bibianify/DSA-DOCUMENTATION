@@ -12,3 +12,7 @@ TOOLS USED
 ***SQL
 
 ***POWERBI
+MY PROJECT
+
+
+The power bi see the link https://eu.docworkspace.com/d/sIHLN-ZbOAYmCnsMG?sa=601.1037
